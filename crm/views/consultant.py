@@ -5,7 +5,7 @@ from PIL import Image,ImageDraw,ImageFont
 import random
 from io import BytesIO
 from crm.forms import RegForm
-# djsflkjsghfhfhh
+# djsflkjsghfhfhhgggg
 
 # 验证码
 def random_color():                                # 定义一个生成随机颜色代码的函数
